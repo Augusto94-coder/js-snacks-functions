@@ -8,7 +8,6 @@ e buonasera se è sera (oltre le 17)
 const nome = 'Mario';
 
 
-// Dichiara la funzione qui.
 function saluta(nome) {
   const now = new Date();/* "December 17, 1995 19:24:00" */
   const hour = now.getHours();
